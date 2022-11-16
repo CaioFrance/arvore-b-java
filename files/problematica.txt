@@ -1,0 +1,9 @@
+Busca de livros em um site de vendas
+
+Em um site de vendas de livros, existem diversos e dos mais variados livros, com isso em mente queremos um livro específico,
+a forma mais comum seria buscar pelo nome do livro, entretanto, isso nos traria outros livros que não são do nosso interesse,
+para melhorar essa busca, podemos utilizar uma arvore B com os indices de cada livro. Mas quais seriam esses indices?
+Todos os livros já registrados, possuem um identificador único, chamado de ISBN-10, existem outros identificadores e para
+este exercício utilizaremos o ISBN-10. Utilizando o identificador único de cada livro implementado em uma arvore B, a busca
+pelo livro específico melhoraria absurdamente. Neste execício possui um aruqivo de texto chamado "indices", onde possue
+os identificadores que utilizaremos como exemplo.
